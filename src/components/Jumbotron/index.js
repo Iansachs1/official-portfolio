@@ -6,7 +6,7 @@ const backgroundImage = {
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-    backgroundImage: "url(/official-portfolio/assets/TempBackdropMonochrome.png)"
+    backgroundImage: "url(/assets/TempBackdropMonochrome.png)"
 }
 
 const textShadow = {

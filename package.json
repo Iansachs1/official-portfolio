@@ -2,7 +2,7 @@
   "name": "official-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Iansachs1.github.io/official-portfolio/",
+  "homepage": "https://i-sachs.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

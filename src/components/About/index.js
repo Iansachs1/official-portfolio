@@ -10,14 +10,14 @@ function About() {
         <section id="About" class="background container-fluid aboutSection">
             <div class="row mx-5">
                 <div class="col-md-5 pb-5">
-                    <img src="/official-portfolio/assets/Headshot.png" class="headshot" alt="Image of Me"></img>
+                    <img src="/assets/Headshot.png" class="headshot" alt="Image of Me"></img>
                     <div class="text-center name-cap display-4">Ian Thomas Sachs</div>
                     <div class="text-center">Full-Stack Web Development Bootcamp Grad </div>
                     <div class="text-center">UC San Diego</div>
                     <div class="text-center">
-                            <img src="/official-portfolio/assets/github-sign.png" class="media-icon justify-content-center" alt="Github Logo"></img>
-                            <img src="/official-portfolio/assets/linkedin.png" class="media-icon justify-content-center" alt="LinkedIn Logo"></img>
-                            <img src="/official-portfolio/assets/instagram.png" class="media-icon justify-content-center" alt="Instagram Logo"></img>
+                            <img src="/assets/github-sign.png" class="media-icon justify-content-center" alt="Github Logo"></img>
+                            <img src="/assets/linkedin.png" class="media-icon justify-content-center" alt="LinkedIn Logo"></img>
+                            <img src="/assets/instagram.png" class="media-icon justify-content-center" alt="Instagram Logo"></img>
                     </div>
                 </div>
                 <div class="col-md-7">
