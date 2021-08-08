@@ -1,0 +1,36 @@
+.aboutSection {
+    min-height: 100vh;
+    background-color: #83a5c5;
+    background-size: cover;
+    border-bottom: #000000;
+}
+
+.row {
+    margin: auto;
+}
+
+.headshot {
+    display: block;
+    width: 75%;
+    margin-top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name-cap {
+    /* font-weight: 800px; */
+    font-size: 3vw;
+    padding-bottom: 5px;
+}
+
+.bio-head {
+    font-weight: 340;
+    margin-top: 27.5%;
+    margin-bottom: 7.5%;
+}
+
+.media-icon {
+    display: inline-block;
+    width: 10%;
+    padding: 15px 5px 0px;
+}
